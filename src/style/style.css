@@ -1,0 +1,21 @@
+.login-container {
+    margin-top: 5%;
+}
+
+.login-form {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    top:50%;
+}
+
+
+.registration-container {
+    margin-top: 5%;
+}
+
+.registration-form {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
